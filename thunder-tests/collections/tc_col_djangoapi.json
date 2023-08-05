@@ -1,0 +1,23 @@
+{
+    "_id": "d2574526-ed9b-40d4-abab-d0bec01ce653",
+    "colName": "django_api",
+    "created": "2023-08-05T23:01:45.509Z",
+    "sortNum": 10000,
+    "folders": [],
+    "requests": [
+        {
+            "_id": "09e78663-bc08-4f20-be40-23e8bd8d44a0",
+            "colId": "d2574526-ed9b-40d4-abab-d0bec01ce653",
+            "containerId": "",
+            "name": "get tasks",
+            "url": "http://127.0.0.1:8000/tasks/api/v1/tasks/",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-08-05T23:01:55.027Z",
+            "modified": "2023-08-05T23:29:48.010Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
